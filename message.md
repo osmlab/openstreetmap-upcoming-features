@@ -5,8 +5,8 @@ what I'm doing the first time. The purpose is both to get a wider
 audience for the discussion of changes and to inform people what's going 
 on. 
 
-I'm thinking I'll produce these every other week or so, depending on the 
-pace of development, my free time, and what kind of response I get. 
+For more information about this message and the criteria, see the github 
+repo https://github.com/osmlab/openstreetmap-upcoming-features
 
 My criteria for inclusion are 
 
@@ -34,23 +34,21 @@ include other projects if I'm aware of interesting changes.
 == Changes == 
 
 If you have comments on these changes, the best place is on the 
-appropriate github page for the change, which I try to link. 
+appropriate github page for the change, which I try to link.
 
-Add welcome page - Providing better text to users as they sign up. 
+=== Add welcome page ===
+https://github.com/openstreetmap/openstreetmap-website/pull/338 
 
-Github page for change at https://github.com/openstreetmap/openstreetmap-website/pull/338 
+Providing better text to users as they sign up. 
 
 Test deployment at http://welcome.apis.dev.openstreetmap.org/user/new 
 
-Rationalize multiple "locate me" type functions - Discussion about 
-confusion and duplication between "Where am I?", home and the new 
-geolocation button. Suggestions of removal of "Where am I?" 
+=== Rationalize multiple "locate me" type functions ===
+https://github.com/openstreetmap/openstreetmap-website/issues/373 
 
-Github page for change at https://github.com/openstreetmap/openstreetmap-website/issues/373 
+Discussion about confusion and duplication between "Where am I?", home 
+and the new geolocation button. Suggestions of removal of "Where am I?" 
 
 == Significant merges == 
 
 Add attribution control #423 
-
-Reorganize export/share UI and associated minor changes #351 
-
