@@ -37,7 +37,6 @@ If you have comments on these changes, the best place is on the
 appropriate github page for the change, which I try to link. 
 
 Add welcome page - Providing better text to users as they sign up. 
-Substantial changes since last email 
 
 Github page for change at https://github.com/openstreetmap/openstreetmap-website/pull/338 
 
@@ -49,18 +48,9 @@ geolocation button. Suggestions of removal of "Where am I?"
 
 Github page for change at https://github.com/openstreetmap/openstreetmap-website/issues/373 
 
-iD 1.1 - Update to iD 1.1 (already posted to the list independently) 
-
-Github page for change at https://github.com/openstreetmap/openstreetmap-website/pull/424 
-
-Move copyright link to attribution control - Moving Copyright link to a 
-bottom-right link in the map 
-
-Github page for change at https://github.com/openstreetmap/openstreetmap-website/pull/423 
-
 == Significant merges == 
 
-Hash anchor #378 
+Add attribution control #423 
 
 Reorganize export/share UI and associated minor changes #351 
 
