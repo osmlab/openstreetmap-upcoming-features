@@ -48,13 +48,6 @@ Turns the links in the top-right into a drop-down menu.
 
 Deployed at http://user.apis.dev.openstreetmap.org/
 
-=== Add welcome page ===
-https://github.com/openstreetmap/openstreetmap-website/pull/338 
-
-Providing better text to users as they sign up. 
-
-Test deployment at http://welcome.apis.dev.openstreetmap.org/user/new 
-
 === Rationalize multiple "locate me" type functions ===
 https://github.com/openstreetmap/openstreetmap-website/issues/373 
 
@@ -64,3 +57,5 @@ and the new geolocation button. Suggestions of removal of "Where am I?"
 == Significant merges == 
 
 Add attribution control #423 
+
+Add welcome page #338
