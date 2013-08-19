@@ -51,7 +51,8 @@ Deployed at http://user.apis.dev.openstreetmap.org/
 === Add a help jumping-off page ===
 https://github.com/openstreetmap/openstreetmap-website/pull/456
 
-This adds a simple jump off page to OSM's most prominent sources of help and documentation -- the new welcome page, LearnOSM, help.osm.org, and wiki.osm.org.
+Adds a new help tab to the top, with links on that tab replacing the 
+current Documentation and Help Center. Add new links to other resources. 
 
 === Rationalize multiple "locate me" type functions ===
 https://github.com/openstreetmap/openstreetmap-website/issues/373 
