@@ -48,6 +48,11 @@ Turns the links in the top-right into a drop-down menu.
 
 Deployed at http://user.apis.dev.openstreetmap.org/
 
+=== Add a help jumping-off page ===
+https://github.com/openstreetmap/openstreetmap-website/pull/456
+
+This adds a simple jump off page to OSM's most prominent sources of help and documentation -- the new welcome page, LearnOSM, help.osm.org, and wiki.osm.org.
+
 === Rationalize multiple "locate me" type functions ===
 https://github.com/openstreetmap/openstreetmap-website/issues/373 
 
