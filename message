@@ -1,34 +1,10 @@
-I'm trying something new to get more visibility to upcoming potential 
-website changes, as well as recent website changes. I won't include the 
-introductory material next time, but it's worth explaining what I'm 
-doing this time. The purpose is both to get a wider audience for the 
-discussion of changes and to inform people what's going on. 
-
-For more information about this message and the criteria, see the github 
-repo https://github.com/osmlab/openstreetmap-upcoming-features
-
-My criteria for inclusion are 
-
-* User facing: I won't generally include changes that aren't visible on 
-osm.org 
-
-* Changes in functionality: I won't count changes that are purely bug 
-fixes or changes that aren't apparent to the user 
-
-* Noticeable: There are lots of minor changes to the website to fix 
-minor issues. Many of these are immediately merged. 
-
-* Would benefit from comments: I only include changes that stand a 
-reasonable chance of being merged in the near future, or changes that 
-would benefit from a wider audience 
-
-Feedback on these criteria is welcome, but I have no intention of 
-posting every little website change to the list. If you want that, 
-follow the issue trackers. 
-
-Most changes are in the openstreetmap-website project at 
-https://github.com/openstreetmap/openstreetmap-website although I will 
-include other projects if I'm aware of interesting changes. 
+This is a weekly message about interesting website changes upcoming. The
+purpose is both to get a wider audience for the discussion of changes
+and to inform people what's going on. For more information about this
+message and the criteria, see the github repo
+https://github.com/osmlab/openstreetmap-upcoming-features. Not every
+change is included - if you want that, follow the rails-dev@ list or the
+github projects.
 
 == Changes == 
 
