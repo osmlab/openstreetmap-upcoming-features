@@ -11,18 +11,6 @@ github projects.
 If you have comments on these changes, the best place is on the 
 appropriate github page for the change, which I try to link.
 
-=== Make iD default editor ===
-https://github.com/openstreetmap/openstreetmap-website/pull/453
-
-Makes iD the editor that opens up by default when users click Edit
-
-=== Convert user navigation to a dropdown menu ===
-https://github.com/openstreetmap/openstreetmap-website/pull/447
-
-Turns the links in the top-right into a drop-down menu.
-
-Deployed at http://user.apis.dev.openstreetmap.org/
-
 === Add a help jumping-off page ===
 https://github.com/openstreetmap/openstreetmap-website/pull/456
 
