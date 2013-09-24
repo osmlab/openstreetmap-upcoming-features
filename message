@@ -11,6 +11,11 @@ github projects.
 If you have comments on these changes, the best place is on the 
 appropriate github page for the change, which I try to link.
 
+=== Mild rejig of the browse pages ===
+https://github.com/openstreetmap/openstreetmap-website/pull/487
+
+Changes the display of object meta-data and makes tags more prominent.
+
 === Add a help jumping-off page ===
 https://github.com/openstreetmap/openstreetmap-website/pull/456
 
