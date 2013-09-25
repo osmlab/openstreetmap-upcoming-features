@@ -16,6 +16,12 @@ https://github.com/openstreetmap/openstreetmap-website/pull/487
 
 Changes the display of object meta-data and makes tags more prominent.
 
+=== Rip out user location map ===
+https://github.com/openstreetmap/openstreetmap-website/pull/490
+
+Removes the ability to view/set a user's home location and view nearby 
+users.
+
 === Add a help jumping-off page ===
 https://github.com/openstreetmap/openstreetmap-website/pull/456
 
