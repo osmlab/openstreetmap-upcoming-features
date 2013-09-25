@@ -11,6 +11,12 @@ github projects.
 If you have comments on these changes, the best place is on the 
 appropriate github page for the change, which I try to link.
 
+=== More gallery-style layer switcher (iD) ===
+https://github.com/systemed/iD/issues/1677
+
+Changes the layer switcher to a gallery-style one, similar to the layer
+switcher on osm.org.
+
 === Mild rejig of the browse pages ===
 https://github.com/openstreetmap/openstreetmap-website/pull/487
 
