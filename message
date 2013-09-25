@@ -17,6 +17,11 @@ https://github.com/systemed/iD/issues/1677
 Changes the layer switcher to a gallery-style one, similar to the layer
 switcher on osm.org.
 
+=== Support GPX API (iD) ===
+https://github.com/systemed/iD/issues/1789
+
+On supporting the GPX API in iD, including if it should be supported.
+
 === Mild rejig of the browse pages ===
 https://github.com/openstreetmap/openstreetmap-website/pull/487
 
