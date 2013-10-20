@@ -11,6 +11,19 @@ github projects.
 If you have comments on these changes, the best place is on the 
 appropriate github page for the change, which I try to link.
 
+=== Redesign ===
+https://github.com/openstreetmap/openstreetmap-website/pull/498
+
+A redesign of the OSM.org web page
+
+Major components of the redesign include a new help page; new about page;
+moving navigation elements out of the sidebar; moving search results, 
+export controls, changeset history, and feature details into the sidebar; 
+and removal of the sidebar from "interior" pages such as the user profile 
+and diaries.
+
+Deployed at http://redesign.apis.dev.openstreetmap.org/
+
 === More gallery-style layer switcher (iD) ===
 https://github.com/systemed/iD/issues/1677
 
